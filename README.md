@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0032-longest-valid-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Sorting
