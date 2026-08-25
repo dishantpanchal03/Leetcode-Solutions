@@ -66,10 +66,12 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
