@@ -74,6 +74,7 @@
 | [0002-add-two-numbers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -88,6 +89,7 @@
 | [0231-power-of-two](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Counting
 |  |
