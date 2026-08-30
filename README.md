@@ -44,6 +44,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -140,11 +141,13 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
