@@ -39,6 +39,7 @@
 | [0120-triangle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0219-contains-duplicate-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0705-design-hashset](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0705-design-hashset) |
+| [0835-image-overlap](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [1480-running-sum-of-1d-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3024-type-of-triangle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -216,4 +217,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
