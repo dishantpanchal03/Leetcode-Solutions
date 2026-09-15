@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0032-longest-valid-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0038-count-and-say) |
@@ -62,6 +63,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0120-triangle) |
@@ -141,6 +143,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -242,4 +245,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
