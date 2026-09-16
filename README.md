@@ -11,6 +11,7 @@
 | [0242-valid-anagram](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0705-design-hashset](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -29,6 +30,7 @@
 | [0171-excel-sheet-column-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -38,6 +40,7 @@
 | [0242-valid-anagram](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [3024-type-of-triangle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 ## Array
 |  |
@@ -188,6 +191,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Counting
 |  |
