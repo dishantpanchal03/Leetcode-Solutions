@@ -48,6 +48,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0074-search-a-2d-matrix](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0219-contains-duplicate-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -252,6 +254,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0835-image-overlap) |
 ## Geometry
 |  |
