@@ -36,6 +36,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3498-reverse-degree-of-a-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
