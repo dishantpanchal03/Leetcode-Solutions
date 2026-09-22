@@ -45,6 +45,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3024-type-of-triangle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 ## Array
 |  |
@@ -58,6 +59,7 @@
 | [0303-range-sum-query-immutable](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0835-image-overlap](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [1480-running-sum-of-1d-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -139,6 +141,7 @@
 | [0367-valid-perfect-square](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
