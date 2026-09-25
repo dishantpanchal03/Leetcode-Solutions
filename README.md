@@ -150,6 +150,7 @@
 | [0168-excel-sheet-column-title](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
