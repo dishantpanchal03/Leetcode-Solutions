@@ -52,6 +52,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3024-type-of-triangle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 ## Array
@@ -70,6 +71,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0835-image-overlap](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0835-image-overlap) |
+| [0977-squares-of-a-sorted-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2942-find-words-containing-character](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
@@ -197,6 +199,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
