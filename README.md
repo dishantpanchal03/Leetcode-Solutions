@@ -77,6 +77,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -289,6 +290,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
