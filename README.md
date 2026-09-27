@@ -42,6 +42,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2942-find-words-containing-character](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -115,11 +116,13 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Binary Search
 |  |
 | ------- |
