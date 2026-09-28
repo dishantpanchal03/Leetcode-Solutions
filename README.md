@@ -69,6 +69,7 @@
 | [0120-triangle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -237,6 +238,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
