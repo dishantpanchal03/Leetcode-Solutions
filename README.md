@@ -172,6 +172,7 @@
 | [0171-excel-sheet-column-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0263-ugly-number) |
+| [0319-bulb-switcher](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -345,4 +346,8 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
