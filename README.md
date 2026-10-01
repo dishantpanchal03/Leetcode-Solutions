@@ -110,6 +110,7 @@
 | [0120-triangle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0509-fibonacci-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1025-divisor-game](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Stack
@@ -188,6 +189,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0672-bulb-switcher-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0672-bulb-switcher-ii) |
 | [0836-rectangle-overlap](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
+| [1025-divisor-game](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -362,4 +364,13 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
