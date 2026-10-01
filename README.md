@@ -178,6 +178,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
