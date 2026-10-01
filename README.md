@@ -67,6 +67,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0120-triangle) |
@@ -107,6 +108,7 @@
 | [0005-longest-palindromic-substring](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0120-triangle) |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 ## Simulation
