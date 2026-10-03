@@ -79,6 +79,7 @@
 | [0238-product-of-array-except-self](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
@@ -245,6 +246,7 @@
 | [0011-container-with-most-water](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0767-reorganize-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 ## Simulation
@@ -389,4 +391,8 @@
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0767-reorganize-string) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
