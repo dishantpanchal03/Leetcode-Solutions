@@ -399,4 +399,5 @@
 |  |
 | ------- |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1683-invalid-tweets](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
