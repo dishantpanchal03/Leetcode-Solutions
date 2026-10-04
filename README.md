@@ -395,4 +395,8 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+## Database
+|  |
+| ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
