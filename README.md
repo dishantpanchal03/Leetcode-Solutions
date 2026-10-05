@@ -43,6 +43,7 @@
 | [0389-find-the-difference](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0443-string-compression](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0856-score-of-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
@@ -250,6 +251,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
