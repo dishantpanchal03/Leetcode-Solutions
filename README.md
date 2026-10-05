@@ -16,6 +16,7 @@
 | [0705-design-hashset](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0767-reorganize-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [1096-brace-expansion-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -90,6 +91,7 @@
 | [0705-design-hashset](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0835-image-overlap](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -304,6 +306,7 @@
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0767-reorganize-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Tree
 |  |
