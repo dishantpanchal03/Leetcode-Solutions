@@ -46,6 +46,7 @@
 | [0443-string-compression](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0767-reorganize-string) |
+| [0844-backspace-string-compare](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -141,6 +142,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -252,6 +254,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [0844-backspace-string-compare](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -269,6 +272,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1518-water-bottles](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1518-water-bottles) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3248-snake-in-matrix](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
