@@ -66,6 +66,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -84,6 +85,7 @@
 | [0045-jump-game-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -258,6 +260,7 @@
 | [0005-longest-palindromic-substring](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -438,4 +441,12 @@
 | [1068-product-sales-analysis-i](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
