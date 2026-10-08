@@ -19,6 +19,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2716-minimize-string-length](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -57,6 +58,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2716-minimize-string-length](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
 | [2942-find-words-containing-character](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3248-snake-in-matrix](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
