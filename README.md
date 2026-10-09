@@ -103,6 +103,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0705-design-hashset) |
+| [0739-daily-temperatures](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -155,6 +156,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -454,4 +456,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
