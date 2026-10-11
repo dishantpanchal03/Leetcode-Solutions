@@ -98,6 +98,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -235,6 +236,7 @@
 | [0168-excel-sheet-column-title](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -400,6 +402,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3833-count-dominant-indices](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3833-count-dominant-indices) |
@@ -492,4 +495,20 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
