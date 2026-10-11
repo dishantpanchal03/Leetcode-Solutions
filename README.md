@@ -90,6 +90,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0120-triangle) |
@@ -311,6 +312,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1518-water-bottles](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1518-water-bottles) |
@@ -410,6 +412,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0835-image-overlap) |
