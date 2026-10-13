@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -35,6 +36,7 @@
 | [0006-zigzag-conversion](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
@@ -239,6 +241,7 @@
 | [0007-reverse-integer](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
