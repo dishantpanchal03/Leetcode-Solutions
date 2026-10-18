@@ -104,6 +104,7 @@
 | [0014-longest-common-prefix](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
@@ -321,6 +322,7 @@
 | [0015-3sum](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
