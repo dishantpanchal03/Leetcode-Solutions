@@ -74,6 +74,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2716-minimize-string-length](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
 | [2942-find-words-containing-character](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -301,6 +302,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1518-water-bottles) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3024-type-of-triangle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
