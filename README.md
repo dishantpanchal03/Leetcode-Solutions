@@ -50,6 +50,7 @@
 | [0032-longest-valid-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0072-edit-distance](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
@@ -179,6 +180,7 @@
 | [0045-jump-game-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0198-house-robber) |
