@@ -115,6 +115,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
@@ -287,6 +288,7 @@
 | [0013-roman-to-integer](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -493,6 +495,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
