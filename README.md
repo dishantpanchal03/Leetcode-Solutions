@@ -138,6 +138,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0705-design-hashset) |
+| [0724-find-pivot-index](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -396,6 +397,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
