@@ -81,6 +81,7 @@
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3248-snake-in-matrix](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
@@ -170,6 +171,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3833-count-dominant-indices](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3833-count-dominant-indices) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -263,6 +265,7 @@
 | [0053-maximum-subarray](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -430,6 +433,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting
 |  |
@@ -448,6 +452,7 @@
 | [0590-n-ary-tree-postorder-traversal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -461,6 +466,7 @@
 | [1254-number-of-closed-islands](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -620,11 +626,13 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
