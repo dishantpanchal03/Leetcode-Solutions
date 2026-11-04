@@ -30,6 +30,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -171,6 +172,7 @@
 | [3248-snake-in-matrix](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -207,6 +209,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
@@ -331,6 +334,7 @@
 | [2409-count-days-spent-together](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3024-type-of-triangle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -515,6 +519,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Matrix
 |  |
 | ------- |
@@ -575,6 +580,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0767-reorganize-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Longest Increasing Subsequence
 |  |
