@@ -24,6 +24,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2716-minimize-string-length](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
 | [2747-count-zero-request-servers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -79,6 +80,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2409-count-days-spent-together](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2716-minimize-string-length](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
 | [2942-find-words-containing-character](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
@@ -469,6 +471,7 @@
 | [0767-reorganize-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [1267-count-servers-that-communicate](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Tree
 |  |
