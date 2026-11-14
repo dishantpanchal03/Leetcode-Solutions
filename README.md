@@ -151,6 +151,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0494-target-sum](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -218,6 +219,7 @@
 | [0120-triangle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -580,6 +582,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Memoization
 |  |
@@ -741,4 +744,12 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
