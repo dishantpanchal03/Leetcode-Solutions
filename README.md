@@ -330,6 +330,7 @@
 | [0189-rotate-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0292-nim-game) |
@@ -429,6 +430,7 @@
 | [0043-multiply-strings](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1518-water-bottles](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1518-water-bottles) |
@@ -652,6 +654,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
