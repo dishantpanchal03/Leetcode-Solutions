@@ -85,6 +85,7 @@
 | [2409-count-days-spent-together](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2716-minimize-string-length](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3248-snake-in-matrix](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
