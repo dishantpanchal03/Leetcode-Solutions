@@ -332,6 +332,7 @@
 | [0043-multiply-strings](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0089-gray-code](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -477,6 +478,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0342-power-of-four) |
@@ -598,6 +600,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0089-gray-code](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0301-remove-invalid-parentheses](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
