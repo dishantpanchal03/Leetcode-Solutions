@@ -230,6 +230,7 @@
 | [0120-triangle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -488,6 +489,7 @@
 | [0089-gray-code](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0672-bulb-switcher-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0672-bulb-switcher-ii) |
