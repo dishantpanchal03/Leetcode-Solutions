@@ -197,6 +197,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3248-snake-in-matrix](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -374,6 +375,7 @@
 | [2409-count-days-spent-together](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3024-type-of-triangle](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -572,6 +574,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3833-count-dominant-indices](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3833-count-dominant-indices) |
 | [3886-sum-of-sortable-integers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
@@ -582,6 +585,7 @@
 | [0219-contains-duplicate-ii](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Matrix
@@ -692,6 +696,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/dishantpanchal03/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
